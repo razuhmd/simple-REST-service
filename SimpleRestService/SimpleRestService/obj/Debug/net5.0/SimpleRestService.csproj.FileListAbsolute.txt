@@ -1,0 +1,8 @@
+D:\3rdSemester\Technology\Network Programming\simple-REST-service\SimpleRestService\SimpleRestService\obj\Debug\net5.0\SimpleRestService.csproj.AssemblyReference.cache
+D:\3rdSemester\Technology\Network Programming\simple-REST-service\SimpleRestService\SimpleRestService\obj\Debug\net5.0\SimpleRestService.GeneratedMSBuildEditorConfig.editorconfig
+D:\3rdSemester\Technology\Network Programming\simple-REST-service\SimpleRestService\SimpleRestService\obj\Debug\net5.0\SimpleRestService.AssemblyInfoInputs.cache
+D:\3rdSemester\Technology\Network Programming\simple-REST-service\SimpleRestService\SimpleRestService\obj\Debug\net5.0\SimpleRestService.AssemblyInfo.cs
+D:\3rdSemester\Technology\Network Programming\simple-REST-service\SimpleRestService\SimpleRestService\obj\Debug\net5.0\SimpleRestService.csproj.CoreCompileInputs.cache
+D:\3rdSemester\Technology\Network Programming\simple-REST-service\SimpleRestService\SimpleRestService\obj\Debug\net5.0\SimpleRestService.MvcApplicationPartsAssemblyInfo.cache
+D:\3rdSemester\Technology\Network Programming\simple-REST-service\SimpleRestService\SimpleRestService\obj\Debug\net5.0\SimpleRestService.RazorAssemblyInfo.cache
+D:\3rdSemester\Technology\Network Programming\simple-REST-service\SimpleRestService\SimpleRestService\obj\Debug\net5.0\SimpleRestService.RazorAssemblyInfo.cs
